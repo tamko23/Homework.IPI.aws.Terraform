@@ -1,2 +1,2 @@
-access_key = "AKIAXSLCLRNY3SXYBEGA"
-secret_key = "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"
+access_key = "Access Key of IAM User"
+secret_key = "Secret Key of IAM User"
